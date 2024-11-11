@@ -2,8 +2,6 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
-
 nav a {
     float: right;
     display: block;
@@ -103,7 +101,7 @@ h1{
 }
 .logo{
 color: #92ec80;
-font-size: xxx-large;
+font-size: 50px;
 float:right;
 font-style:italic;
 margin-left: 15px;
@@ -112,6 +110,8 @@ font-variant-ligatures: historical-ligatures;
 form {
     display: grid;
     gap: 10px;
+    position: relative;
+   
 }
 
 label {
@@ -126,6 +126,7 @@ input[type="text"], input[type="email"], textarea {
     background: #fdfcfc;
     color: #000000;
     align-items: center;
+    position: relative;
 }
 
 button {
@@ -205,3 +206,39 @@ form button{
    align-items: center;
    float:right
     }
+#contact7{
+    position: relative;
+    display: flexbox;
+    
+}
+input{
+ 
+    width: 97%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background: #fdfcfc;
+    color: #000000;
+    align-items: center;
+    position: relative
+}
+option{
+    width: 97%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background: #fdfcfc;
+    color: #000000;
+    align-items: center;
+    position: relative
+}
+select{
+    width: 97%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background: #fdfcfc;
+    color: #000000;
+    align-items: center;
+    position: relative
+}
