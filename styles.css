@@ -24,7 +24,7 @@ nav a:hover {
 }
 
 .dropdown .dropbtn {
-    font-size: 50px;
+    font-size: 40px;
     border: none;
     outline: none;
     color: white;
@@ -101,7 +101,7 @@ h1{
 }
 .logo{
 color: #92ec80;
-font-size: 40px;
+font-size: 37px;
 float:right;
 font-style:italic;
 margin-left: 15px;
